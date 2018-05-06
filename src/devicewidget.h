@@ -25,6 +25,7 @@
 
 #include "minimalstreamwidget.h"
 #include "ui_devicewidget.h"
+#include <QAction>
 #include <QTimer>
 #include <vector>
 

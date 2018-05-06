@@ -25,6 +25,7 @@
 
 #include "minimalstreamwidget.h"
 #include "ui_streamwidget.h"
+#include <QAction>
 #include <QTimer>
 
 class MainWindow;
